@@ -1,6 +1,6 @@
 # MeshBuddy
 
-![screenshot](./screenshot.png)
+<img width="1152" height="760" alt="MeshBuddy-New" src="https://github.com/user-attachments/assets/6b6072df-0a86-4020-bf69-9fd9ce980334" />
 
 **Requires macOS 15 (Sequoia)**
 
